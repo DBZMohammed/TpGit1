@@ -7,3 +7,20 @@ main{
     
     background-image: url(../img/fond/fond102.jpg)
 }
+
+#liste1{
+    background-color: lightsteelblue;
+}
+
+#liste2{
+    background-color: beige;
+}
+
+#galiste1{
+    background-color: lightsteelblue;
+
+}
+
+#galiste2{
+    background-color: beige;
+}
